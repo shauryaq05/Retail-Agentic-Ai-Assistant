@@ -34,4 +34,4 @@ regenerate it with more rows using `backend/data/generate_dataset.py`.
 ## Notes
 
 - Only SELECT queries are allowed, so the AI can't modify the database.
-- CORS is wide open in the backend for local dev — tighten it before deploying anywhere.
+  
