@@ -1,4 +1,4 @@
-Agentic BI  Retail Assistant
+Agentic BI  Retail Assistant(Team - 1)
 
 A small project that lets you ask plain-English questions about retail sales data
 ("Which region had the highest sales last year?") and get back an answer with the
